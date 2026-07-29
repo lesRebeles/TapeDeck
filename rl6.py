@@ -2,12 +2,6 @@
 """
 retro_launchpad.py
 ====================
-
-A blue-screen, C64-style terminal "launchpad" for the cassette tape
-storage format implemented in nes_cassette.py: listen to a tape (real
-hardware, or a WAV file for testing), reassemble an Atari 2600 ROM, and
-launch it straight into RetroArch (Stella core).
-
 INSTALLATION
 ------------
 Drop this file AND nes_cassette.py into your RetroArch install directory
