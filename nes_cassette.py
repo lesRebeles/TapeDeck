@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-nes_cassette.py
+cassette.py
 ================
 
 Store a NES ROM file as audio for cassette tape, and read it back later,
