@@ -1,5 +1,5 @@
-Use cassette.py and the latest retro_launchpad.py together in your Retroarch directory. Linux users installing retroarch via flatpak don't need to worry about where it's installed, only that
-both .py files are together in a folder. Use the settings menu to point to the correct folders for stuff. Make sure you have your cores file path correct, and that it's looking for the correct one!
+Use nes_cassette.py and the latest retro_launchpad.py together in your Retroarch directory. Linux users installing retroarch via flatpak don't need to worry about where it's installed, only that both .py files are together in a folder. Use the settings menu to point to the correct folders for stuff. Make sure you have your cores file path
+correct, and that it's looking for the correct one!
 
 GOAL: Emulation front end that mimics a C64 and uses consumer-level tape decks to load roms into an existing emulator.
 
