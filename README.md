@@ -9,3 +9,5 @@ SO FAR: There are 3 methods to encode the rom into an audio file to be saved to 
 3) Fast: less safe, but increases bandwidth by quite a bit.
 
 *Need to test various tape deck hardware with these settings
+
+This is a VERY early version, and I have not tested this with physical hardware yet (an actual tape deck), but with the error correction in the scripts, I think this could be cool. I want to dive deeper into the recording/playback modes and make the most of the tape's bandwidth, increasing speed and retaining accuracy as I go... decreasing loading times. Currently, it's utilizing Retroarch for its Atari 2600 emulation core. Yes, I know, the Atari 2600 didn't use cassettes, but the file size is perfect for this experimental implementation. Load time for a typical 2600 rom is approximately 1:10. -LR
